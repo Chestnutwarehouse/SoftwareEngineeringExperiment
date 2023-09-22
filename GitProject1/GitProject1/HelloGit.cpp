@@ -2,5 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "Git is a version control system." << endl << "Git is free software.";
+	cout << "Git is a version control system." << endl << "Git is free software."<<endl;
+	cout << "I love Git!" << endl;
 }
