@@ -5,4 +5,5 @@ int main() {
 	cout << "a = " << a << endl;
 	cout << "b = " << b << endl;
 	cout << "a + b =" << a + b << endl;
+	cout << "Creating a new branch is quick." << endl;
 }
